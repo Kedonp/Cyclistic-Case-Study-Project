@@ -1,0 +1,13 @@
+# SQL Queries – Cyclistic Case Study
+
+This folder contains SQL scripts used to analyze differences between **annual members** and **casual riders** in the Cyclistic bike-share dataset.
+
+### Query Index
+- `01_membership_comparison.sql` → Total rides by customer type  
+- `02_ride_type_distribution.sql` → Distribution of rideable types (classic, electric, docked)  
+- `03_duration_groups.sql` → Ride duration groups by customer type  
+- `04_monthly_trends.sql` → Monthly ride trends by customer type  
+- `05_weekday_trends.sql` → Weekday usage patterns (overall + by customer type)  
+- `06_hourly_trends.sql` → Hourly ride patterns  
+- `07_popular_rideable_by_month.sql` → Most popular ride type each month  
+- `08_duration_by_ride_type.sql` → Ride duration by rideable type 
