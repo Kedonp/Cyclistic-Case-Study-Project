@@ -22,4 +22,4 @@ This project looks at Cyclistic bike-share data to compare how annual members an
 
 ## How to view
 - Start with `Cyclistic Case Study Summary.pdf` to see the main presentation.
-- Feel free to view files and sources of the project.
+- Feel free to view other files and sources of the project.
