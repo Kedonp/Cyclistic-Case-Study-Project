@@ -14,6 +14,12 @@ This project looks at Cyclistic bike-share data to compare how annual members an
 ## Files in this repo
 - **Data Source/** → sample CSV files showing both uncleaned and cleaned data  
 - **SQL Queries/** → the SQL scripts I used to answer business questions and find insights  
-- **Cyclistic Case Study Summary.pdf** → slide deck with key findings, charts, and recommendations  
-- **Case-Study-Notes.pdf** → project notes, challenges I ran into, and steps I took along the way  
+- **Cyclistic Case Study Summary.pdf** → Powerpoint slides with key findings, charts, and recommendations  
+- **Project Notes.pdf** → project notes, challenges I ran into, and steps I took along the way  
 - **README.md** → this file  
+
+---
+
+## How to view
+- Start with `Cyclistic Case Study Summary.pdf` to see the main presentation.
+- Feel free to view files and sources of the project.
