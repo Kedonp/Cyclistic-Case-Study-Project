@@ -1,6 +1,6 @@
 # Cyclistic Case Study
 
-This project looks at Cyclistic bike-share data to compare how annual members and casual riders use the service. The goal was to find patterns in rider behavior and suggest recommendations that could encourage more casual riders to become members.  
+This project analyzes Cyclistic bike-share data to compare how annual members and casual riders use the service. The goal was to find patterns in rider behavior and suggest recommendations that could encourage more casual riders to become members.  
 
 ## What's inside
 - Sample CSV files with both the raw and cleaned trip data  
